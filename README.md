@@ -5,7 +5,8 @@
 <h2> Requirments: </h2>
 
 - Java J2SE 1.5 (or later) SDK
-  
+
+<h2> How the cycle works: </h2>
 1. Step 1)
 - Reg (2b) will fetch the instruction.
 - An adder connected to it will help find the next instruction and fetch it.  
