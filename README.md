@@ -1,5 +1,11 @@
 <h1> Implementation of I-format instructions (Single Cycle Path)  </h1>
+<h2> Tools used: </h2>
 
+- MARS (MIPS Assembler and Runtime Simulator)
+<h2> Requirments: </h2>
+
+- Java J2SE 1.5 (or later) SDK
+  
 1. Step 1)
 - Reg (2b) will fetch the instruction.
 - An adder connected to it will help find the next instruction and fetch it.  
